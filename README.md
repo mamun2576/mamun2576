@@ -11,9 +11,9 @@
 
 - ?? I’m currently learning **Laravel, react,vue js**
 
-- ?? I’m looking to collaborate on [School Management System](https://github.com/mamun2576/laravel-8-school-management-system)
+- ?? I’m looking to collaborate on [PHP Laravel project](https://github.com/mamun2576/laravel-8-school-management-system)
 
-- ?? I’m looking for help with [Your project](http://almamun.epizy.com/)
+- ?? I’m looking for help with [laravel project](http://almamun.epizy.com/)
 
 - ????? All of my projects are available at [https://github.com/mamun2576?tab=repositories](https://github.com/mamun2576?tab=repositories)
 
