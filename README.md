@@ -1,17 +1,6 @@
 <h1 align="center">Hi ??, I'm Al-Mamun.</h1>
 <h3 align="center">A passionate backend developer from Bangladesh.</h3>
-const thai = {
-  pronouns: "she" | "her",
-  code: [Javascript, Typescript, HTML, CSS, Ruby, Python, Java],
-  tools: [React, Redux, Node, Storybook, Styled-Components, Jest, Docker],
-  architecture: ["microservices", "event-driven", "design system pattern"],
-  techCommunities: {
-                        coorganizer: "AfroPython",
-                        speaker: "Latinity",
-                        mentor: "EducaTRANSforma"
-                      },
- challenge: "I am doing the #100DaysOfCode challenge focused on react and typescript"
-}
+
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mamun2576&label=Profile%20views&color=0e75b6&style=flat" alt="mamun2576" /> </p>
 
