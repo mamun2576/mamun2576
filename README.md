@@ -8,23 +8,23 @@
 
 <p align="left"> <a href="https://twitter.com/almamun03511840" target="blank"><img src="https://img.shields.io/twitter/follow/almamun03511840?logo=twitter&style=for-the-badge" alt="almamun03511840" /></a> </p>
 
-- ?? I’m currently working on [PHP and Laravel](https://github.com/mamun2576?tab=repositories)
+-  I’m currently working on [PHP and Laravel](https://github.com/mamun2576?tab=repositories)
 
-- ?? I’m currently learning **Laravel, react,vue js**
+-  I’m currently learning **Laravel, react,vue js**
 
-- ?? I’m looking to collaborate on [PHP Laravel project](https://github.com/mamun2576/laravel-8-school-management-system)
+- I’m looking to collaborate on [PHP Laravel project](https://github.com/mamun2576/laravel-8-school-management-system)
 
-- ?? I’m looking for help with [laravel project](http://almamun.epizy.com/)
+-  I’m looking for help with [laravel project](http://almamun.epizy.com/)
 
-- ????? All of my projects are available at [https://github.com/mamun2576?tab=repositories](https://github.com/mamun2576?tab=repositories)
+-  All of my projects are available at [https://github.com/mamun2576?tab=repositories](https://github.com/mamun2576?tab=repositories)
 
-- ?? Ask me about **laravel**
+- Ask me about **laravel**
 
-- ?? How to reach me **mamun191152576@gmail.com**
+- How to reach me **mamun191152576@gmail.com**
 
-- ?? Know about my experiences [http://almamun.epizy.com/?i=1](http://almamun.epizy.com/?i=1)
+- Know about my experiences [http://almamun.epizy.com/?i=1](http://almamun.epizy.com/?i=1)
 
-- ? Fun fact **I think ....**
+-  Fun fact **I think ....**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
